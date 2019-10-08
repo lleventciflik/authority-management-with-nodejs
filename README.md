@@ -1,1 +1,4 @@
-"# Authority-Management-with-Nodejs" 
+Express js
+Sequelize.js
+Passport js
+MySql
